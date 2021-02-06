@@ -1,11 +1,11 @@
-# Arbol-generico
+# Tree-generic
 
-Este programa funcional refleja el TAD de un arbol binario de busqueda implementado en Java. 
+This functional program reflects the TAD of a binary search tree implemented in Java.
 
-## Herramientas:
-* Software Java.
+## Tools:
+* Java software.
 * Eclipse.
 
-## Participantes
+## Participants
 * Santiago Rodas Rodriguez
 * Juan Fernando Martinez
